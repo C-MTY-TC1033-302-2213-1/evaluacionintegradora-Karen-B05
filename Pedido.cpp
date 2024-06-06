@@ -2,6 +2,8 @@
 // Matricula: A00840405
 // Fecha: 06-06-24
 
+#include "Pedido.h"
+
 Pedido::Pedido(){
     for(int index = 0; index < MAX_PROD; index ++){
         arrPtrProductos[index] = nullptr;
