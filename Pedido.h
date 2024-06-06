@@ -5,6 +5,7 @@
 #ifndef Pedido_h
 #define Pedido_h
 
+#include <iostream>
 #include <string>
 #include <stdio.h>
 #include <sstream>
